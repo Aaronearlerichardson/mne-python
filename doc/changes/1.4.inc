@@ -1,12 +1,24 @@
-.. _changes_1_4_0:
+.. _changes_1_4_2:
 
-Version 1.4.1 (unreleased)
+Version 1.4.2 (2023-06-06)
+--------------------------
+
+Bugs
+~~~~
+
+- Fix bug with PySide6 compatibility (:gh:`11721` by `Eric Larson`_)
+
+.. _changes_1_4_1:
+
+Version 1.4.1 (2023-06-05)
 --------------------------
 
 Bugs
 ~~~~
 
 - Fix hanging interpreter with matplotlib figures using ``mne/viz/_mpl_figure.py`` in spyder console and jupyter notebooks`(:gh:`11696` by `Mathieu Scheltienne`_)
+
+.. _changes_1_4_0:
 
 Version 1.4.0 (2023-05-10)
 --------------------------
