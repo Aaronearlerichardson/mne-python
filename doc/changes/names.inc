@@ -1,3 +1,5 @@
+.. _Aaron Earle-Richardson: https://github.com/Aaronearlerichardson
+
 .. _Abram Hindle: https://softwareprocess.es
 
 .. _Adam Li: https://github.com/adam2392
@@ -170,6 +172,8 @@
 
 .. _Fu-Te Wong: https://github.com/zuxfoucault
 
+.. _Gennadiy Belonosov: https://github.com/Genuster
+
 .. _Geoff Brookshire: https://github.com/gbrookshire
 
 .. _George O'Neill: https://georgeoneill.github.io
@@ -255,6 +259,8 @@
 .. _Jose Alanis: https://github.com/JoseAlanis
 
 .. _Joshua Bear: https://github.com/joshbear
+
+.. _Joshua Calder-Travis: https://github.com/jCalderTravis
 
 .. _Joshua Teves: https://github.com/jbteves
 
